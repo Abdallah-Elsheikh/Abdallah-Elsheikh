@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F0F2F5&height=180&section=header&text=Abdallah%20Salah&fontSize=70&fontColor=0D47A1&fontAlignY=40&desc=Software%20Engineer%20%7C%20Computer%20Science%20Student&descSize=20&descAlignY=75&descColor=555555&animation=fadeIn" width="100%" alt="Header" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1800&pause=1000&color=2F80ED&background=F2F2F2&center=true&vCenter=true&width=435&lines=HI;I'm+Abdallah+Salah" alt="Typing SVG" />
 
-  <p align="center">
+ <p align="center">
+    <b> Software Engineer | Computer Science Student </b>
+  </p>
+
+<p align="center">
     <a href="mailto:abdallahelsheikh808@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -21,11 +25,11 @@
 
 ---
 
-### 👨‍💻 Professional Profile
+### 👨‍💻 About Me
 
 I am a **Software Engineer** and **Computer Science Student** at Menoufia University with a unique edge: I possess a deep understanding of both high-level software development and low-level hardware integration.
 
-My academic and practical background involves **Electronics, Logic Design, and Microcontrollers**, allowing me to build systems that interact with the physical world, not just run on a screen.
+My academic and practical background involves Electronics, Logic Design, and Microcontrollers, allowing me to build systems that interact with the physical world, not just run on a screen.
 
 ✨ **Soft Skills & Community:**
 * **Volunteering:** Active volunteer and former PR Team member for **ICPC Menoufia**.
@@ -34,50 +38,99 @@ My academic and practical background involves **Electronics, Logic Design, and M
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Skills
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%"><b>💻 Programming & Frameworks</b></td>
-    <td align="center" width="50%"><b>⚙️ Tools & Infrastructure</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,angular,bootstrap,nodejs,express,arduino" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,mongodb,vscode,visualstudio,idea,postman,figma,ps,ai" />
-      <br>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="25" />
-      <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" height="25" />
-    </td>
-  </tr>
-</table>
+#### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,js,ts,html,css,angular,nodejs,express,bootstrap" />
+</p>
+
+#### 💾 Databases & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github" />
+ <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" height="40" alt="Oracle" />
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/vmware.png" height="40" alt="VMware" />
+</p>
+
+#### 🎨 Tools & IDEs
+<p>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,figma,ps,ai" />
+ <img src="https://cdn.worldvectorlogo.com/logos/netbeans.svg" height="40" alt="NetBeans" />
+  <img src="https://img.icons8.com/color/48/000000/canva.png" height="40" alt="Canva" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/scratch.png" height="40" alt="Scratch" />
+  <img src="https://cdn.simpleicons.org/codeblocks/41AD48" height="40" alt="Code::Blocks" />
+  &nbsp;&nbsp;
+  
+  <img src="https://img.icons8.com/fluency/48/000000/integrated-circuit.png" height="40" alt="NI Multisim" title="NI Multisim" />
+  &nbsp;&nbsp;
+  
+  <img src="https://img.icons8.com/fluency/48/000000/video-editing.png" height="40" alt="Anime Studio" />
+</p>
+</p>
+</p>
+
+#### 📊 Data & Analysis Tools
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="PowerBI" />
+  &nbsp;&nbsp;
+  
+  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v2.png" height="40" alt="Word" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" height="40" alt="PowerPoint" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" height="40" alt="Access" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" height="40" alt="Outlook" />
+</p>
+
+
+#### 🤝 Remote Collaboration & Teamwork
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Meet_icon_%282020%29.svg/50px-Google_Meet_icon_%282020%29.svg.png" height="40" alt="Google Meet" />
+  &nbsp;&nbsp;
+  
+  <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" height="40" alt="Microsoft Teams" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Zoom_Communications_Logo.svg/50px-Zoom_Communications_Logo.svg.png" height="40" alt="Zoom" />
+</p>
+
+---
+
+### ⚡ The Hardware-Software Hybrid
+*My ability to work with circuits and code simultaneously.*
+
+| **Electronics & Logic** | **Microcontrollers** | **Tools & Simulation** |
+| :--- | :--- | :--- |
+| • Logic Design & Circuits<br>• Semi-Conductors<br>• Sensors & Actuators | • **Arduino** (Programming & Interfacing)<br>• Electrical Circuits | • **NI Multisim** (Circuit Simulation)<br>• Packet Tracer (Networking)<br>• Hardware Troubleshooting |
+
+---
+
+### 📚 Core Academic Coursework
+
+I have built a solid foundation through rigorous academic study in CS and Engineering fundamentals:
+
+* **Software Engineering** : OOP, Data Structures, Algorithms, Operating Systems (1 & 2), Software Testing.
+* **Hardware & Architecture** : Electronics, Logic Design, Computer Organization, Microprocessors.
+* **Mathematics** : Discrete Math, Linear Algebra, Statistics & Probability, Operations Research.
+
+---
+
+### 🏆 Certifications & Training
+
+* **MEAN-Stack Web Development** : *National Telecommunication Institute (NTI)* - **Grade: 96%**
+* **ICDL Certificate** : *Edraak*
+* **Various Technical Certificates** : *ITI & Mahara Tech*
+* **ICPC Community** : Organized university-level programming contests as part of the PR Team.
+* **Graphic Design Projects** : Freelance work for retail and commercial clients.
+* **Projects** : Diverse portfolio ranging from Web Apps to **Arduino-based Hardware projects** and Data Analysis tasks.
+
+---
+
+
+
+
+
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
-  <img src="https://img.shields.io/badge/NI_Multisim-00ADEF?style=flat&logo=nationalinstruments&logoColor=white" />
-</div>
-
----
-
-### ⚡ Hardware & Electronics Background
-<small><i>Leveraging low-level knowledge for high-level efficiency.</i></small>
-
-* **Electronics:** Circuits, Logic Design, Semi-Conductors.
-* **Microcontrollers:** Basics of Arduino and Embedded C programming.
-* **Tools:** NI Multisim, Packet Tracer.
-
----
-
-### 🎓 Academic Journey
-
-* **Software:** OOP, Data Structures, Algorithms, OS, Software Engineering.
-* **Mathematics:** Discrete Math, Logic, Linear Algebra, Statistics.
-* **Achievements:** Certified **MEAN-Stack Developer** (NTI, Grade: 96%).
-
----
-<div align="center">
-  <small><i>"Passion leads to innovation."</i></small>
+  <b><i>"Passion leads to innovation."</i></b>
 </div>
