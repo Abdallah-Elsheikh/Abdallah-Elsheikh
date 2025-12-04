@@ -1,10 +1,5 @@
 <div align="center">
-
-  <h1>Abdallah Salah Elsheikh</h1>
-  <h3>Software Engineer | Computer Science Student</h3>
-  <p>
-    <b>Bridging the gap between Software Intelligence & Hardware Logic</b>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Abdallah%20Salah&fontSize=80&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student&descSize=25&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
 
   <p align="center">
     <a href="mailto:abdallahelsheikh808@gmail.com">
@@ -26,66 +21,63 @@
 
 ---
 
-### 👨‍💻 Professional Summary
+### 👋 About Me & Soft Skills
 
-I am a **Software Engineer** and **Computer Science Student** at Menoufia University with a unique edge: I possess a deep understanding of both high-level software development and low-level hardware integration. 
+I am a dedicated **Software Engineer** and **Computer Science Student** at Menoufia University. I believe that great software is built by great teams, not just individuals.
 
-My academic and practical background involves **Electronics, Logic Design, and Microcontrollers**, allowing me to build systems that interact with the physical world, not just run on a screen.
-
----
-
-### ⚡ The Hardware-Software Hybrid
-*My ability to work with circuits and code simultaneously.*
-
-| **Electronics & Logic** | **Microcontrollers** | **Tools & Simulation** |
-| :--- | :--- | :--- |
-| • Logic Design & Circuits<br>• Semi-Conductors<br>• Sensors & Actuators | • **Arduino** (Programming & Interfacing)<br>• Embedded C Concepts<br>• IoT Basics | • **NI Multisim** (Circuit Simulation)<br>• Packet Tracer (Networking)<br>• Hardware Troubleshooting |
+✨ **Volunteering & Teamwork:**
+* **Active Volunteer:** Former PR Team member for **ICPC Menoufia**, helping organize contests and support fellow students.
+* **Team Player:** I thrive in collaborative environments and have experience coordinating university-level events.
+* **Work Ethic:** Resilient under pressure, self-dependent, and always eager to learn new technologies (currently learning German 🇩🇪).
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Technical Skills
 
-#### 💻 Programming Languages
+#### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,c,arduino" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,angular,nodejs,express,bootstrap" />
 </p>
 
-#### 🌐 Web Development (MEAN Stack)
+#### 💾 Databases & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,angular,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" />
 </p>
 
-#### ⚙️ Tools, IDEs & Database
+#### 🎨 Tools & IDEs
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,netbeans,idea,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,netbeans,idea,postman,figma,ps,ai" />
 </p>
 
-#### 📊 Data Analysis & Office Excellence
+#### 📊 Data & Analysis Tools
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" alt="Office" />
-  <img src="https://img.shields.io/badge/NI_Multisim-00ADEF?style=flat&logo=nationalinstruments&logoColor=white" alt="Multisim" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
 </p>
 
 ---
 
-### 📚 Core Academic Coursework
+### 💡 Additional Background (Hardware & Electronics)
 
-I have built a solid foundation through rigorous academic study in CS and Engineering fundamentals:
+Since I study Computer Science, I also have a solid academic understanding of how machines work at a low level. This knowledge helps me write more efficient code.
 
-* **Software Engineering:** OOP, Data Structures, Algorithms, Operating Systems (1 & 2), Software Testing.
-* **Hardware & Architecture:** Electronics, Logic Design, Computer Organization, Microprocessors.
-* **Mathematics:** Discrete Math, Linear Algebra, Statistics & Probability, Operations Research.
+* **Electronics:** Circuits, Logic Design, Semi-Conductors.
+* **Microcontrollers:** Basics of Arduino and Embedded C.
+* **Tools:** NI Multisim, Packet Tracer.
 
 ---
 
-### 🏆 Key Achievements
+### 🎓 Academic Journey
 
-* **NTI Certified:** MEAN-Stack Web Development (Grade: 96%).
-* **ICPC Community:** Organized university-level programming contests as part of the PR Team.
-* **Projects:** Diverse portfolio ranging from Web Apps to **Arduino-based Hardware projects** and Data Analysis tasks.
+My coursework covers a wide range of topics, ensuring a strong engineering foundation:
+
+* **Software:** OOP, Data Structures, Algorithms, OS, Software Engineering.
+* **Mathematics:** Discrete Math, Logic, Linear Algebra, Statistics.
+* **Achievements:** Certified **MEAN-Stack Developer** (NTI, Grade: 96%).
 
 ---
 <div align="center">
-  <small><i>Ready to tackle complex problems with full-stack software and hardware solutions.</i></small>
+  <small><i>"Passion leads to innovation."</i></small>
 </div>
