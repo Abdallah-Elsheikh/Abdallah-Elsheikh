@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1800&pause=1000&color=2F80ED&background=F2F2F2&center=true&vCenter=true&width=435&lines=HI;I'm+Abdallah+Salah" alt="Typing SVG" />
 
  <p align="center">
-    <b> Software Engineer | Computer Science Student </b>
+    <b> Software Engineer  </b>
   </p>
 
 <p align="center">
